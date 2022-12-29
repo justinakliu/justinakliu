@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
-I am a junior software engineer who is excited about collaborating with others to create impactful products. 
+I am a software engineer who is excited about collaborating with others to create impactful products. 
 </p>
 <p align='center'>
 Before software engineering, I researched edtech and studied economics and cognitive science at Princeton University.
