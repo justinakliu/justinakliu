@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <p align='center'>
 I am a junior software engineer who is excited about collaborating with others to create impactful products. 
-
+</p>
+<p align='center'>
 Before software engineering, I researched edtech and studied economics and cognitive science at Princeton University.
 </p>
-
+  
+  
