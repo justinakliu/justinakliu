@@ -17,6 +17,9 @@ Here are some ideas to get you started:
   👋 Hi! I'm Justina
 </h1>
 
-I am a student software engineer at Ada Developers Academy who is excited about collaborating with others to create impactful products. 
+<p align='center'>
+I am a junior software engineer who is excited about collaborating with others to create impactful products. 
 
-Previously, I researched edtech at WestEd and studied economics and cognitive science at Princeton University.
+Before software engineering, I researched edtech and studied economics and cognitive science at Princeton University.
+</p>
+
