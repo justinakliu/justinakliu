@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
-I am a fullstack software engineer who is excited about collaborating with others to create impactful products. 
+💻 I am a fullstack software engineer who is excited about collaborating with others to create impactful products. 
 </p>
 <p align='center'>
-Before engineering, I researched edtech efficacy and usability and studied economics and cognitive science at Princeton University.
+🧠 Before engineering, I researched edtech efficacy and usability and studied economics and cognitive science at Princeton University.
 </p>
-  
-  
+
