@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 <h1 align='center'>
   👋 Hi! I'm Justina
 </h1>
+
+I am a student software engineer at Ada Developers Academy who is excited about collaborating with others to create impactful products. 
+
+Previously, I researched edtech at WestEd and studied economics and cognitive science at Princeton University.
