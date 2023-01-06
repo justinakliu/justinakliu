@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Justina!
 
-- 💻 Full-stack software engineer excited about collaborating with others to create impactful products. 
+- 💻 I'm a full-stack software engineer excited about collaborating with others to create impactful products. 
 - 📚 Before engineering, I researched edtech efficacy and usability at [WestEd](https://www.wested.org/) and studied economics and cognitive science at Princeton University.
 </p>
 
