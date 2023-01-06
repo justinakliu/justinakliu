@@ -13,14 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'>
-  👋 Hi! I'm Justina
-</h1>
+### Hi, I'm Justina!
 
-<p align='center'>
-💻 I am a full-stack software engineer who is excited about collaborating with others to create impactful products. 
-</p>
-<p align='center'>
-🧠 Before engineering, I researched edtech efficacy and usability and studied economics and cognitive science at Princeton University.
+- 💻 Full-stack software engineer excited about collaborating with others to create impactful products. 
+- 📚 Before engineering, I researched edtech efficacy and usability at [WestEd](https://www.wested.org/) and studied economics and cognitive science at Princeton University.
 </p>
 
