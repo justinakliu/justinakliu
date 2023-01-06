@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 I'm a full-stack software engineer excited about collaborating with others to create impactful products. 
 - 📚 Before engineering, I researched edtech efficacy and usability at [WestEd](https://www.wested.org/) and studied economics and cognitive science at Princeton University.
-- ⚒️ Languages: Python, Javascript, HTML, CSS, SQL
-- ⚙️ Frameworks & Libraries: ReactJS, Flask, SQLAlchemy, D3.js
-- 🧰 Database & Industry Tools: PostgreSQL, Git, REST APIs, Postman
+- ⚒️ My tech stack includes: 
+  - Languages: Python, Javascript, HTML, CSS, SQL
+  - Frameworks & Libraries: ReactJS, Flask, SQLAlchemy, Pytest, D3.js
+  - Databases & Industry Tools: PostgreSQL, Git, REST APIs, Postman
