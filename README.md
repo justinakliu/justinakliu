@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   - Languages: Python, Javascript, HTML, CSS, SQL
   - Frameworks & Libraries: ReactJS, Flask, SQLAlchemy, Pytest, D3.js
   - Databases & Industry Tools: PostgreSQL, Git, REST APIs, Postman
-- You can connect with me on [LinkedIn](https://www.linkedin.com/in/justinakliu/)!
+- 👋 You can connect with me on [LinkedIn](https://www.linkedin.com/in/justinakliu/)!
